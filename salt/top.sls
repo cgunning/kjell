@@ -1,4 +1,4 @@
 base:
   'kernel:Linux':
-    match: grain
+    - match: grain
     - packages
