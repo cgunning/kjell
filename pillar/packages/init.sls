@@ -1,5 +1,5 @@
 packages:
   - epel-release
-  - vim
+  - vim-enhanced
   - bind-utils
   - net-tools
