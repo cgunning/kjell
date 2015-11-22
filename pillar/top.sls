@@ -4,3 +4,4 @@ base:
     - packages
     - resolv_conf
     - domain_join
+    - sudoers
